@@ -1,0 +1,29 @@
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 40px;
+	margin-left: 30px;
+	font-family: 'Georgia', sans-serif;
+}
+
+h2 {
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 30px;
+	font-family: 'Georgia', sans-serif;
+}
+
+h3 {
+	color: bolder;
+	font-weight: normal;
+	font-size: 20px;
+	margin-left: 30px;
+	font-family: 'Georgia', sans-serif;
+}
+
+li {
+	display: inline;
+	margin: 20px;
+
+}
